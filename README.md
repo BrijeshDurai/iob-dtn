@@ -26,7 +26,7 @@ How to build:
 
 How to run:
 
-$ ./iob [command line arguments]
+ ./iob [command line arguments]
 
         Usage of ./iob:
         
@@ -59,9 +59,11 @@ $ ./iob [command line arguments]
                 speed of the bicycle, e.g. unit movement in per second (default 1)
 
 
-e.g. ./iob -buffer-size 40 -num-cycles 10 -num-copies 8 -freq 12
+e.g. 
+
+        ./iob -buffer-size 40 -num-cycles 10 -num-copies 8 -freq 12
 
 
 Plot graph:
 
-$ python plotLR.py
+         python plotLR.py
