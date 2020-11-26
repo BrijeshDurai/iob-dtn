@@ -19,6 +19,10 @@ Requirenments:
 
 How to build:
 
+        git clone https://github.com/BrijeshDurai/iob-dtn.git
+        
+        cd iob-dtn
+        
         go mod init iob-dtn
 
         go build -o iob
