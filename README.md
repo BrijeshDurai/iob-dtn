@@ -1,2 +1,2 @@
 # iob-dtn
-CSPC32 Internetworking Protocols Project Repo
+Repository for CSPC32 Internetworking Protocols Project
