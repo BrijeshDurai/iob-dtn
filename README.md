@@ -19,9 +19,9 @@ Requirenments:
 
 How to build:
 
-$ go mod init iob-dtn
+        go mod init iob-dtn
 
-$ go build -o iob
+        go build -o iob
 
 
 How to run:
